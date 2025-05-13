@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Executa todo dia à meia-noite
-  workflow_dispatch:  # Permite executar manualmente
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   generate:
