@@ -13,7 +13,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: SEU_USUARIO
+          github_user_name: LuizHilario
           outputs: |
             ./assets/snake.svg
 
