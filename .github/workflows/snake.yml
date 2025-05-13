@@ -9,18 +9,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: LuizHilario
           outputs: |
             ./assets/snake.svg
 
-      - name: Push to GitHub
+      - name: Commit animation file
         uses: EndBug/add-and-commit@v9
         with:
           add: './assets/snake.svg'
           message: 'update snake animation'
           author_name: github-actions
           author_email: github-actions@github.com
+
