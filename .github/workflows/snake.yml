@@ -2,28 +2,42 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa a cada 24 horas
+  workflow_dispatch:  # Executa manualmente via GitHub Actions
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      # Checkout do repositório
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      # Criar a pasta 'assets' se não existir
+      - name: Create assets folder
+        run: mkdir -p ./assets
+
+      # Gerar o arquivo da animação da cobrinha
+      - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: LuizHilario
-          outputs: |
-            ./assets/snake.svg
+          outputs: ./assets/snake.svg
 
-      - name: Commit animation file
+      # Personalizar o arquivo SVG (exemplo de modificação direta no SVG)
+      - name: Personalize Snake Animation
+        run: |
+          # Substitua ou edite o arquivo SVG gerado conforme necessário
+          sed -i 's/green/#6e5494/g' ./assets/snake.svg  # Alterando para a cor do GitHub (roxo)
+          # Outras personalizações podem ser feitas aqui (como adicionar o logo do GitHub)
+      
+      # Adicionar e fazer commit do arquivo gerado
+      - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
           add: './assets/snake.svg'
           message: 'update snake animation'
           author_name: github-actions
           author_email: github-actions@github.com
-
+          force: true  # Forçar o commit, mesmo que não haja alterações
