@@ -1,4 +1,4 @@
-# Olá Mundo me chamo Luiz, venha me conhecer? ✌️
+# Olá a todos! Sou o Luiz, prazer em conhecê-los! 👋
 
 <div>
   <a href="https://github.com/LuizHilario">
