@@ -1,4 +1,9 @@
-<h1>👨🏻‍💻 Luiz Hilário</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Luiz+Hil%C3%A1rio!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
+  </a>
+</div>
+
 <h4>Olá, Meu nome é Luiz Hilário e tenho 19 anos, sou estudante apaixonado por criação de sites e desenvolvimento de jogos, buscando constantemente expandir meus conhecimentos e aplicar novas tecnologias para construir soluções inovadoras</h4>
 
 #
