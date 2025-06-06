@@ -12,7 +12,7 @@
 TODO
 #
 
-<img align="right" alt="" height="190px" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F9g5eu0q6r3id1.gif">
+<img align="right" alt="" height="190px" src="./src/tranferir.gif">
 <h3 align="left">Connect with me!</h3>
 
 <div> 
