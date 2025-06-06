@@ -2,14 +2,6 @@
 <h4>Olá, Meu nome é Luiz Hilário e tenho 19 anos, sou estudante apaixonado por criação de sites e desenvolvimento de jogos, buscando constantemente expandir meus conhecimentos e aplicar novas tecnologias para construir soluções inovadoras</h4>
 
 #
-<h3 align="center" >📊 Status do Github</h3>
-<div style="text-align: center;" align="center">
-  <a href="https://github.com/LuizHilario" >
-  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/LuizHilario?cardType=level-alternative&theme=midnight-purple" alt="LuizHilario's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHilario&layout=donut&langs_count=6&theme=midnight-purple" alt="LuizHilario's GitHub Stats"/>
-</div>
-
-#
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 <h3 align="left">🌍 Redes Sociais</h3>
@@ -45,4 +37,17 @@
     <img width="8" />
   <img align="center" alt="Luiz-git" heigth="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg")">
 </div>
+
+#
+
+<h3 align="center" >📊 Status do Github</h3>
+<div style="text-align: center;" align="center">
+  <a href="https://github.com/LuizHilario" >
+  <img height="180" src="https://awesome-github-stats.azurewebsites.net/user-stats/LuizHilario?cardType=level-alternative&theme=midnight-purple" alt="LuizHilario's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHilario&layout=donut&langs_count=6&theme=midnight-purple" alt="LuizHilario's GitHub Stats"/>
+</div>
+
+#
+
+
 </body>
