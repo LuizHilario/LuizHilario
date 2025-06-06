@@ -1,4 +1,4 @@
-## Me chamo Luiz Hilário e vocês?✌️
+## Me chamo Luiz Hilário e vocês?✌
 
 <div>
   <a href="https://github.com/LuizHilario">
