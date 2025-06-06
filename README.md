@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<div>
+  <a href="">
+    <img src="./src/Banner.gif"
+  </a>
+</div>
+
 <h4>Olá, Meu nome é Luiz Hilário e tenho 19 anos, sou estudante apaixonado por criação de sites e desenvolvimento de jogos, buscando constantemente expandir meus conhecimentos e aplicar novas tecnologias para construir soluções inovadoras</h4>
 
 #
