@@ -1,9 +1,7 @@
-## Me chamo Luiz Hilário e vocês?✌ 
-
 <div>
   <a href="https://github.com/LuizHilario">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizHilario&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHilario&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizHilario&show_icons=true&theme=midnight-purple"/><br>
+  <img height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHilario&layout=donut&langs_count=6&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline block"><br>
